@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, my name is Grigory
+#### I am Factoría F5 student - Full Stack web development course
+![I am Factoría F5 student - Full Stack web development course](https://media.licdn.com/dms/image/v2/D5612AQEtml-fhwGpTQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1701939855578?e=1741824000&v=beta&t=AbYq1r_xSn-EFExyAJgTvzIGn85wq_vEX3rn2xmVqMs)
 
-<!--
-**Grigory-Vladimiro/Grigory-Vladimiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate Junior Full Stack web developer with an interest in Artificial Intelligence. I love solving problems and constantly learning new technologies to improve my knowledge.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: grigori.vladimiro@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Grigory-Vladimiro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/grigoryvladimiro/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Grigory-Vladimiro&show_icons=true&count_private=true)  
+
