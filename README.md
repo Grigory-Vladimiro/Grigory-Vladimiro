@@ -4,7 +4,7 @@
 
 I'm passionate Full Stack web developer with an interest in Artificial Intelligence. I love solving problems and constantly learning new technologies to improve my knowledge.
 
-Skills: HTML / CSS / JS / ReactJS
+Skills: HTML / CSS / JS / ReactJS / Java
 
 - 📫 How to reach me: grigori.vladimiro@gmail.com 
 
