@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Grigory
 #### I am Factoría F5 Full Stack web development Bootcamp participant
-![I am Factoría F5 participant - Full Stack web development course]((https://wsrv.nl/?url=https%3A%2F%2Fcodedamn-blog.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2022%2F09%2F12223818%2Fimage_750x_62fbc6c65f92e-1.jpg&w=1280&q=82&output=webp))
+![I am Factoría F5 participant - Full Stack web development course](https://wsrv.nl/?url=https%3A%2F%2Fcodedamn-blog.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2022%2F09%2F12223818%2Fimage_750x_62fbc6c65f92e-1.jpg&w=1280&q=82&output=webp)
 
 I'm passionate Full Stack web developer with an interest in Artificial Intelligence. I love solving problems and constantly learning new technologies to improve my knowledge.
 
