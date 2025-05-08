@@ -4,7 +4,7 @@
 
 I'm passionate Full Stack web developer with an interest in Artificial Intelligence. I love solving problems and constantly learning new technologies to improve my knowledge.
 
-Skills: HTML / CSS / JS / ReactJS / Java
+Skills: HTML5 / CSS3 / JavaScript / React / Java / Spring Boot and Spring Security (Basic Auth & JWT). Unit testing, integration testing and TDD.
 
 - 📫 How to reach me: grigori.vladimiro@gmail.com 
 
